@@ -8,3 +8,15 @@ Instrucciones de uso:
 - Seguir las instrucciones desplegadas en pantalla.
 - Para finalizar el programa seleccionar en el menu la opcion de salida.
 
+** Autores **
+** Grupo 4 **
+Jose Miguel Maldonado
+Karen Fernandez
+Ariel Rodriguez
+Marcos Lepin
+Patricio Sanhueza
+
+https://github.com/arielRodriguezv/SprintFinalM4.git
+
+https://github.com/Marcoslep/SprintFinalM4Asesorias.git
+
